@@ -1,1 +1,13 @@
-this project is intended to showcase how Javascript can be used to solve simple task in every day to day sphere of life when mastered and call upon to do so.
+This project is intended to showcase how Javascript can be used to solve simple task in every day to day sphere of life when mastered and call upon to do so.
+The files in the main 
+
+#project task and what file is solving each
+
+1. Kelvin Weather (projectask1.js)
+Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction.
+
+Recently, Kelvin began publishing his weather forecasts on his website. However there’s a problem: All of his forecasts describe the temperature in Kelvin.
+
+With my knowledge of JavaScript, i was able assist this scientist convert Kelvin to Celsius, then to Fahrenheit and also to Newton.
+
+2. 
