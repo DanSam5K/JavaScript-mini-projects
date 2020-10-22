@@ -71,3 +71,8 @@ ds at a time.
 In this project, I leverage on the powerful technique learnt from iterating over arrays to improve the quality of a paragraph and gather some information about that paragraph.
 
 This is the same type of work that word processing software does. Additionally, you may have heard of linting, a process by which text is evaluated and improved by an application. In this project, I create a miniature version of a linter using array methods that I learned.
+
+9. Meal Maker (project9.js)
+As a frequent diner, I love trying out new restaurants and experimenting with different foods. However, having to figure out what I want to order can be a time-consuming ordeal if the menu is big, and I want an easier way to be able to figure out what you are going to eat.
+
+In this project, JavaScript deployed to randomly create and generate a three-course meal based on what is available on a menu.
