@@ -76,3 +76,6 @@ This is the same type of work that word processing software does. Additionally, 
 As a frequent diner, I love trying out new restaurants and experimenting with different foods. However, having to figure out what I want to order can be a time-consuming ordeal if the menu is big, and I want an easier way to be able to figure out what you are going to eat.
 
 In this project, JavaScript deployed to randomly create and generate a three-course meal based on what is available on a menu.
+
+10. Lodash (projectask10)
+In this project, i try to implementing some of the most exciting functionality from the widely-popular lodash.js library. By implementing ten methods that add new functionality for numbers, strings, objects, and arrays.
